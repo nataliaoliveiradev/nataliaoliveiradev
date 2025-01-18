@@ -1,12 +1,10 @@
 # <span style="color: #ff6e96;"> Oi! Eu sou a Natalia Oliveira </span>
 <i>Porto Alegre/RS</i>
-<div>
-
 ## <span style="color: #ff6e96;"> GitHub Stats</span> 
-![nataliaoliveiradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaoliveiradev&theme=dracula&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaoliveiradev&theme=dracula&show_icons=true&layout=donut)](https://github.com/nataliaoliveiradev/github-readme-stats)
+<div>
+<a href="https://www.linkedin.com/in/nataliaoliveiradev/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliaoliveiradev&theme=dracula&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaoliveiradev&theme=dracula&show_icons=true&layout=donut">
 </div>
 
 ## <span style="color: #ff6e96;"> Sobre: </span>
