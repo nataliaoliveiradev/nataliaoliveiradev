@@ -8,7 +8,7 @@
 </div>
 
 ## <span style="color: #ff6e96;"> Sobre: </span>
-Sou uma pessoa autista, estudante de ciências da computação e aspiro trabalhar no Fullstack, atualmente estudando mais Back-End. Também sou bacharel em Direito, fluente em inglês e aprendendo japonês. Recentemente finalizei meus estudos teóricos e comecei a praticar. **Graduação em 2027/2**.
+Sou uma pessoa autista, estudante de ciências da computação e aspiro trabalhar no Fullstack, atualmente estudando mais Back-End. Também sou bacharel em Direito, fluente em inglês e aprendendo japonês. Recentemente finalizei meus estudos teóricos e comecei a praticar. **Graduação em 2028/1**.
 
 
 ## <span style="color: #ff6e96;">Conhecimentos:</span>
